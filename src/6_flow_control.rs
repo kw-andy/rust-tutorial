@@ -1,5 +1,12 @@
 // 7 - loop
 
+// && = and
+//  || = or 
+// list of operators here -> https://doc.rust-lang.org/book/appendix-02-operators.html
+// flow control : if/else if/else -> https://doc.rust-lang.org/book/appendix-02-operators.html
+// <=,=,==,=>,>,>=
+
+
 
 fn main() {
 
