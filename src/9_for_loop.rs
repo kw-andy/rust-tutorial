@@ -3,7 +3,7 @@ fn main() {
 
     //1st -> n in 1..11
     //2nd -> let numbers = 30..51;
-    //3rd -> 
+    //3rd -> vector -> array/list vec!["Rabbit","Dog","Cat"]
 
     let animals = vec!["Rabbit","Dog","Cat"];
 
